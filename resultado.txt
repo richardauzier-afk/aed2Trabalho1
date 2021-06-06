@@ -1,0 +1,1000 @@
+69021245;Rua Monte Horebe;4411;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;9971;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;5644;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;7610;Tarumã;Manaus;AM
+69021575;Rua Roseira;4327;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;3690;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;6899;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;4906;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;5807;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;4914;Tarumã;Manaus;AM
+69021535;Rua Aracuã;1822;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;9148;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;1884;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;7228;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;2554;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;655;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;6701;Tarumã;Manaus;AM
+69021530;Rua Jacamim;8026;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;9364;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;1901;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;2630;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;7157;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;5667;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;4457;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;7673;Tarumã;Manaus;AM
+69021460;Rua Acre;9244;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;2287;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;9780;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;5944;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;6449;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;1455;Tarumã;Manaus;AM
+69021455;Rua Buriti;7878;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;8126;Tarumã;Manaus;AM
+69021605;Travessa Bambu;7287;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);2091;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;9;Tarumã;Manaus;AM
+69021185;Rua Goiânia;1388;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;3580;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;3033;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;5444;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;3576;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;4560;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;4628;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;7916;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;5755;Tarumã;Manaus;AM
+69021460;Rua Acre;6860;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;7324;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;2378;Tarumã;Manaus;AM
+69021535;Rua Aracuã;6401;Tarumã;Manaus;AM
+69021500;Rua Abobreira;465;Tarumã;Manaus;AM
+69021203;Rua Alvorada;7643;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;7584;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;7317;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;3784;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;243;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;2400;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;8935;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;3295;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;7836;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;6011;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;4428;Tarumã;Manaus;AM
+69021565;Rua Magnólia;3306;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;739;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;6111;Tarumã;Manaus;AM
+69021453;Rua Nova;1267;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;291;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;6224;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;9503;Tarumã;Manaus;AM
+69021580;Rua Lírio do Campo;3543;Tarumã;Manaus;AM
+69021310;Rua São Tomé;8918;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;3459;Tarumã;Manaus;AM
+69021540;Rua Romazeira;1199;Tarumã;Manaus;AM
+69021535;Rua Aracuã;2227;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;3721;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;1509;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;4076;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;3383;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;6722;Tarumã;Manaus;AM
+69021525;Rua Surucuá;6702;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;2717;Tarumã;Manaus;AM
+69021565;Rua Magnólia;5092;Tarumã;Manaus;AM
+69021540;Rua Romazeira;8446;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;6171;Tarumã;Manaus;AM
+69021355;Travessa Bom Jesus;9193;Tarumã;Manaus;AM
+69021420;Rua Cidreira;8908;Tarumã;Manaus;AM
+69021420;Rua Cidreira;8449;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;1711;Tarumã;Manaus;AM
+69021410;Rua Iafa;7684;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;450;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;343;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;5595;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;7384;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;7804;Tarumã;Manaus;AM
+69021560;Rua das Acácias;6510;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;6761;Tarumã;Manaus;AM
+69021515;Rua Morine;801;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;3128;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;9018;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;310;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;3097;Tarumã;Manaus;AM
+69021310;Rua São Tomé;3300;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;7462;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;4494;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;8110;Tarumã;Manaus;AM
+69021185;Rua Goiânia;7576;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;5280;Tarumã;Manaus;AM
+69021360;Rua Patrícia Galvão;6626;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;1427;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;2178;Tarumã;Manaus;AM
+69021350;Rua São Braz;544;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;175;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;9096;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;5842;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;3915;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;8944;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;4665;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);9455;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;2643;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;1996;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;4431;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;6215;Tarumã;Manaus;AM
+69021360;Rua Patrícia Galvão;536;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;4870;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;8844;Tarumã;Manaus;AM
+69021500;Rua Abobreira;3704;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;1761;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;1371;Tarumã;Manaus;AM
+69021600;Rua Rabanete;4027;Tarumã;Manaus;AM
+69021350;Rua São Braz;6763;Tarumã;Manaus;AM
+69021515;Rua Morine;9404;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);7954;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;1760;Tarumã;Manaus;AM
+69021275;Rua Menotti;886;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;1451;Tarumã;Manaus;AM
+69021430;Rua Craveiro;2516;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;9860;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;5610;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;8406;Tarumã;Manaus;AM
+69021453;Rua Nova;267;Tarumã;Manaus;AM
+69021515;Rua Morine;811;Tarumã;Manaus;AM
+69021460;Rua Acre;8119;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;9168;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;2961;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;1087;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;750;Tarumã;Manaus;AM
+69021310;Rua São Tomé;9660;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;6311;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;8494;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;2594;Tarumã;Manaus;AM
+69021460;Rua Acre;9390;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;7398;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;9838;Tarumã;Manaus;AM
+69021420;Rua Cidreira;2473;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;923;Tarumã;Manaus;AM
+69021430;Rua Craveiro;1756;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;50;Tarumã;Manaus;AM
+69021535;Rua Aracuã;4040;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;4798;Tarumã;Manaus;AM
+69021405;Rua Catar;4334;Tarumã;Manaus;AM
+69021206;Rua Libertador;2106;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);2245;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;1208;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;2779;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;9718;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;3100;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;7796;Tarumã;Manaus;AM
+69021340;Rua Darcy França;4788;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;9243;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;1523;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;1922;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;1465;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;2976;Tarumã;Manaus;AM
+69021350;Rua São Braz;6191;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;1550;Tarumã;Manaus;AM
+69021150;Rua Esperança;9568;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;3457;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;9278;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;219;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;8771;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;5901;Tarumã;Manaus;AM
+69021203;Rua Alvorada;4914;Tarumã;Manaus;AM
+69021205;Rua São Gregório;5626;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;1515;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;6277;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;2857;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);8637;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;8119;Tarumã;Manaus;AM
+69021350;Rua São Braz;3591;Tarumã;Manaus;AM
+69021525;Rua Surucuá;3421;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;5967;Tarumã;Manaus;AM
+69021410;Rua Iafa;6486;Tarumã;Manaus;AM
+69021605;Travessa Bambu;1974;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;6624;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;4528;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;6904;Tarumã;Manaus;AM
+69021405;Rua Catar;7033;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;2416;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;4004;Tarumã;Manaus;AM
+69021455;Rua Buriti;5202;Tarumã;Manaus;AM
+69021203;Rua Alvorada;3350;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;5585;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;7187;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;6408;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;7285;Tarumã;Manaus;AM
+69021340;Rua Darcy França;6938;Tarumã;Manaus;AM
+69021585;Rua Beladona;3565;Tarumã;Manaus;AM
+69021600;Rua Rabanete;4353;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;2828;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;5797;Tarumã;Manaus;AM
+69021453;Rua Nova;7854;Tarumã;Manaus;AM
+69021185;Rua Goiânia;7082;Tarumã;Manaus;AM
+69021605;Travessa Bambu;8938;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;4880;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);8134;Tarumã;Manaus;AM
+69021310;Rua São Tomé;4423;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;6914;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;4267;Tarumã;Manaus;AM
+69021540;Rua Romazeira;5455;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;1278;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;7895;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;1370;Tarumã;Manaus;AM
+69021585;Rua Beladona;8379;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;3608;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);6373;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;4262;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;6041;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;8244;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;3721;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;6077;Tarumã;Manaus;AM
+69021203;Rua Alvorada;2512;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;5933;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;134;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;5223;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;8889;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;4905;Tarumã;Manaus;AM
+69021340;Rua Darcy França;1642;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;652;Tarumã;Manaus;AM
+69021395;Rua Aifa;7312;Tarumã;Manaus;AM
+69021565;Rua Magnólia;9856;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;3638;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;4942;Tarumã;Manaus;AM
+69021585;Rua Beladona;7670;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;1394;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;3454;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;8198;Tarumã;Manaus;AM
+69021185;Rua Goiânia;1964;Tarumã;Manaus;AM
+69021185;Rua Goiânia;1100;Tarumã;Manaus;AM
+69021310;Rua São Tomé;2612;Tarumã;Manaus;AM
+69021360;Rua Patrícia Galvão;3017;Tarumã;Manaus;AM
+69021420;Rua Cidreira;6594;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;9623;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;3752;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;6672;Tarumã;Manaus;AM
+69021515;Rua Morine;1711;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;8411;Tarumã;Manaus;AM
+69021535;Rua Aracuã;7932;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;1124;Tarumã;Manaus;AM
+69021605;Travessa Bambu;2876;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;5823;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;1799;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;3037;Tarumã;Manaus;AM
+69021510;Rua Bisnagueira;1345;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;3678;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;2296;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;274;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;1242;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;1944;Tarumã;Manaus;AM
+69021605;Travessa Bambu;6601;Tarumã;Manaus;AM
+69021515;Rua Morine;5383;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;8152;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;1900;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;2478;Tarumã;Manaus;AM
+69021530;Rua Jacamim;3579;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);7985;Tarumã;Manaus;AM
+69021405;Rua Catar;6328;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;1288;Tarumã;Manaus;AM
+69021405;Rua Catar;3544;Tarumã;Manaus;AM
+69021535;Rua Aracuã;6057;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);6594;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;7623;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;4441;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;9860;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;1084;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;3923;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;6020;Tarumã;Manaus;AM
+69021203;Rua Alvorada;1791;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;2237;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;1284;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;7546;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;8389;Tarumã;Manaus;AM
+69021455;Rua Buriti;7936;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;2575;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;1601;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;5078;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;8443;Tarumã;Manaus;AM
+69021275;Rua Menotti;1655;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;5864;Tarumã;Manaus;AM
+69021410;Rua Iafa;3706;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;6020;Tarumã;Manaus;AM
+69021340;Rua Darcy França;3715;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;9614;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;712;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;1568;Tarumã;Manaus;AM
+69021150;Rua Esperança;9850;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);6267;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;2994;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;6942;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;8611;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;723;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;9968;Tarumã;Manaus;AM
+69021430;Rua Craveiro;3562;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;9548;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;558;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;298;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;5052;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;6298;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;2087;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;6769;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;216;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;4036;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;8707;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;6927;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;537;Tarumã;Manaus;AM
+69021530;Rua Jacamim;5000;Tarumã;Manaus;AM
+69021410;Rua Iafa;8230;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;9853;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;9671;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;4625;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;3619;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;3105;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;3059;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;2146;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;9338;Tarumã;Manaus;AM
+69021565;Rua Magnólia;1323;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;3623;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;1934;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;2101;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;4683;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;1427;Tarumã;Manaus;AM
+69021420;Rua Cidreira;7656;Tarumã;Manaus;AM
+69021310;Rua São Tomé;2003;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;3507;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;6285;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;4780;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;1273;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;2829;Tarumã;Manaus;AM
+69021340;Rua Darcy França;9210;Tarumã;Manaus;AM
+69021185;Rua Goiânia;4171;Tarumã;Manaus;AM
+69021453;Rua Nova;9850;Tarumã;Manaus;AM
+69021150;Rua Esperança;5055;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;7502;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;5873;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;1789;Tarumã;Manaus;AM
+69021565;Rua Magnólia;6698;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;4742;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;5333;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;1558;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;1221;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);4310;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;8664;Tarumã;Manaus;AM
+69021410;Rua Iafa;9444;Tarumã;Manaus;AM
+69021525;Rua Surucuá;4912;Tarumã;Manaus;AM
+69021275;Rua Menotti;9837;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;5164;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;3102;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;1480;Tarumã;Manaus;AM
+69021575;Rua Roseira;3862;Tarumã;Manaus;AM
+69021453;Rua Nova;1981;Tarumã;Manaus;AM
+69021150;Rua Esperança;8088;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;1414;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;450;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;1422;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;8773;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;8967;Tarumã;Manaus;AM
+69021575;Rua Roseira;4586;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;2771;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;8798;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;173;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);7923;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;6106;Tarumã;Manaus;AM
+69021455;Rua Buriti;1703;Tarumã;Manaus;AM
+69021453;Rua Nova;7887;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;9968;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;3017;Tarumã;Manaus;AM
+69021565;Rua Magnólia;7180;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;9578;Tarumã;Manaus;AM
+69021515;Rua Morine;7462;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;803;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;6527;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);4070;Tarumã;Manaus;AM
+69021565;Rua Magnólia;6268;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);6758;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;2249;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;7188;Tarumã;Manaus;AM
+69021535;Rua Aracuã;623;Tarumã;Manaus;AM
+69021203;Rua Alvorada;6274;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;9487;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;6202;Tarumã;Manaus;AM
+69021405;Rua Catar;4574;Tarumã;Manaus;AM
+69021395;Rua Aifa;8859;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);3300;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;8434;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;4779;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;9393;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;569;Tarumã;Manaus;AM
+69021203;Rua Alvorada;1873;Tarumã;Manaus;AM
+69021460;Rua Acre;7894;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;6459;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;5362;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;1508;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;6568;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;7213;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;8010;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;3234;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;2175;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;7939;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;549;Tarumã;Manaus;AM
+69021453;Rua Nova;2514;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);194;Tarumã;Manaus;AM
+69021185;Rua Goiânia;9187;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;4292;Tarumã;Manaus;AM
+69021530;Rua Jacamim;6910;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;1620;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;9549;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;6683;Tarumã;Manaus;AM
+69021500;Rua Abobreira;6042;Tarumã;Manaus;AM
+69021500;Rua Abobreira;6203;Tarumã;Manaus;AM
+69021535;Rua Aracuã;209;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;8305;Tarumã;Manaus;AM
+69021565;Rua Magnólia;6329;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;6290;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;5941;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;2467;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;7720;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;3996;Tarumã;Manaus;AM
+69021203;Rua Alvorada;8515;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;3853;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;7523;Tarumã;Manaus;AM
+69021460;Rua Acre;1085;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;2837;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;5956;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;168;Tarumã;Manaus;AM
+69021460;Rua Acre;7445;Tarumã;Manaus;AM
+69021580;Rua Lírio do Campo;5323;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;4878;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;9913;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;599;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);8213;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;6790;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;2716;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);3927;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;4694;Tarumã;Manaus;AM
+69021355;Travessa Bom Jesus;9457;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;7159;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;2612;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;6131;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;4829;Tarumã;Manaus;AM
+69021350;Rua São Braz;4016;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;8653;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;7266;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;1318;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;732;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;6121;Tarumã;Manaus;AM
+69021275;Rua Menotti;1688;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;8688;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;2229;Tarumã;Manaus;AM
+69021605;Travessa Bambu;6920;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;7305;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;6200;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;3072;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;2028;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);6677;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;7444;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;4965;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;7989;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;1266;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;1589;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;9616;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;35;Tarumã;Manaus;AM
+69021530;Rua Jacamim;3705;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;9942;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;5926;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;7055;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;8438;Tarumã;Manaus;AM
+69021405;Rua Catar;3212;Tarumã;Manaus;AM
+69021525;Rua Surucuá;1315;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;5970;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;9744;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;5969;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;8485;Tarumã;Manaus;AM
+69021535;Rua Aracuã;4996;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);6950;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;9147;Tarumã;Manaus;AM
+69021535;Rua Aracuã;1289;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;4714;Tarumã;Manaus;AM
+69021340;Rua Darcy França;2727;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;9096;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;5004;Tarumã;Manaus;AM
+69021395;Rua Aifa;4918;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;9478;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;934;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;9772;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;5531;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);884;Tarumã;Manaus;AM
+69021515;Rua Morine;3450;Tarumã;Manaus;AM
+69021455;Rua Buriti;4291;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;4550;Tarumã;Manaus;AM
+69021340;Rua Darcy França;9615;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;1183;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;1945;Tarumã;Manaus;AM
+69021275;Rua Menotti;8339;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;8297;Tarumã;Manaus;AM
+69021600;Rua Rabanete;305;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;395;Tarumã;Manaus;AM
+69021455;Rua Buriti;8905;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;7591;Tarumã;Manaus;AM
+69021206;Rua Libertador;5190;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;7766;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;4716;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;2287;Tarumã;Manaus;AM
+69021570;Rua Dormideira;1000;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;1240;Tarumã;Manaus;AM
+69021405;Rua Catar;4924;Tarumã;Manaus;AM
+69021206;Rua Libertador;276;Tarumã;Manaus;AM
+69021500;Rua Abobreira;5849;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;3360;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;6796;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;1968;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;6949;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;9772;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;2879;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;5587;Tarumã;Manaus;AM
+69021525;Rua Surucuá;1275;Tarumã;Manaus;AM
+69021355;Travessa Bom Jesus;6536;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;5736;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;723;Tarumã;Manaus;AM
+69021585;Rua Beladona;4286;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;4799;Tarumã;Manaus;AM
+69021515;Rua Morine;2825;Tarumã;Manaus;AM
+69021540;Rua Romazeira;2358;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);9999;Tarumã;Manaus;AM
+69021455;Rua Buriti;530;Tarumã;Manaus;AM
+69021206;Rua Libertador;6642;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;9654;Tarumã;Manaus;AM
+69021535;Rua Aracuã;6880;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;6517;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;3501;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;6145;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;3961;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;1054;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);1447;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;4021;Tarumã;Manaus;AM
+69021395;Rua Aifa;4231;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;7433;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;8372;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;2905;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;7196;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;2650;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;2384;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;1374;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;419;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;8441;Tarumã;Manaus;AM
+69021430;Rua Craveiro;1823;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;9405;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;1791;Tarumã;Manaus;AM
+69021420;Rua Cidreira;9436;Tarumã;Manaus;AM
+69021530;Rua Jacamim;8600;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;1822;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;3773;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;5903;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;4993;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;5438;Tarumã;Manaus;AM
+69021410;Rua Iafa;918;Tarumã;Manaus;AM
+69021600;Rua Rabanete;48;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;557;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;4029;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;4458;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;3226;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;6576;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;2173;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;1373;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;7430;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;3448;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;968;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;3925;Tarumã;Manaus;AM
+69021565;Rua Magnólia;1388;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;4648;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;1113;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;9677;Tarumã;Manaus;AM
+69021565;Rua Magnólia;2890;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;5979;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;3961;Tarumã;Manaus;AM
+69021185;Rua Goiânia;7976;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;8573;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;7488;Tarumã;Manaus;AM
+69021570;Rua Dormideira;6049;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;5351;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;2708;Tarumã;Manaus;AM
+69021575;Rua Roseira;5822;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;3604;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;7012;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;5335;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;9138;Tarumã;Manaus;AM
+69021350;Rua São Braz;957;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;9829;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;4781;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;4263;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;7409;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;5633;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;6671;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;115;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;9070;Tarumã;Manaus;AM
+69021206;Rua Libertador;2391;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;2654;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;4236;Tarumã;Manaus;AM
+69021150;Rua Esperança;4587;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;8588;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;9674;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;291;Tarumã;Manaus;AM
+69021355;Travessa Bom Jesus;4284;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;2076;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;2101;Tarumã;Manaus;AM
+69021150;Rua Esperança;2656;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;7244;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;5035;Tarumã;Manaus;AM
+69021205;Rua São Gregório;77;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;9025;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;3191;Tarumã;Manaus;AM
+69021395;Rua Aifa;6740;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;9510;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;3541;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;8273;Tarumã;Manaus;AM
+69021185;Rua Goiânia;1817;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;1067;Tarumã;Manaus;AM
+69021575;Rua Roseira;7276;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;516;Tarumã;Manaus;AM
+69021605;Travessa Bambu;9712;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);5186;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;2949;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;4111;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;2334;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;6292;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;1873;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;8607;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;3999;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;9777;Tarumã;Manaus;AM
+69021530;Rua Jacamim;8979;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;8063;Tarumã;Manaus;AM
+69021310;Rua São Tomé;5823;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;6240;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;59;Tarumã;Manaus;AM
+69021510;Rua Bisnagueira;3040;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;4164;Tarumã;Manaus;AM
+69021605;Travessa Bambu;9467;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;1307;Tarumã;Manaus;AM
+69021340;Rua Darcy França;7250;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;8364;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;9541;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;4204;Tarumã;Manaus;AM
+69021455;Rua Buriti;8724;Tarumã;Manaus;AM
+69021420;Rua Cidreira;9958;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;773;Tarumã;Manaus;AM
+69021515;Rua Morine;2934;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;5586;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;4799;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;3498;Tarumã;Manaus;AM
+69021605;Travessa Bambu;5372;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;22;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;8078;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;7910;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;6865;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;2520;Tarumã;Manaus;AM
+69021565;Rua Magnólia;9574;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;8752;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;8008;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;3046;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;9140;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;5027;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;4395;Tarumã;Manaus;AM
+69021455;Rua Buriti;5565;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;6679;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;8309;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;5789;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;8396;Tarumã;Manaus;AM
+69021600;Rua Rabanete;9307;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;5731;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;8251;Tarumã;Manaus;AM
+69021510;Rua Bisnagueira;6232;Tarumã;Manaus;AM
+69021515;Rua Morine;6069;Tarumã;Manaus;AM
+69021460;Rua Acre;7892;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;2316;Tarumã;Manaus;AM
+69021515;Rua Morine;263;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;9928;Tarumã;Manaus;AM
+69021175;Rua Governador Rogério Coimbra;7419;Tarumã;Manaus;AM
+69021455;Rua Buriti;864;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);1931;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;6857;Tarumã;Manaus;AM
+69021585;Rua Beladona;7356;Tarumã;Manaus;AM
+69021350;Rua São Braz;9172;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;6500;Tarumã;Manaus;AM
+69021500;Rua Abobreira;4230;Tarumã;Manaus;AM
+69021410;Rua Iafa;4088;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;2931;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;3936;Tarumã;Manaus;AM
+69021585;Rua Beladona;1961;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;5133;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;6909;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;3940;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;5591;Tarumã;Manaus;AM
+69021150;Rua Esperança;1312;Tarumã;Manaus;AM
+69021430;Rua Craveiro;6087;Tarumã;Manaus;AM
+69021585;Rua Beladona;8477;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;3863;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;2223;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;7079;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;6087;Tarumã;Manaus;AM
+69021206;Rua Libertador;9557;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;4663;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;8861;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;658;Tarumã;Manaus;AM
+69021205;Rua São Gregório;9110;Tarumã;Manaus;AM
+69021420;Rua Cidreira;2833;Tarumã;Manaus;AM
+69021395;Rua Aifa;388;Tarumã;Manaus;AM
+69021150;Rua Esperança;9367;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;3378;Tarumã;Manaus;AM
+69021460;Rua Acre;2636;Tarumã;Manaus;AM
+69021410;Rua Iafa;3700;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;3101;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;4575;Tarumã;Manaus;AM
+69021410;Rua Iafa;2609;Tarumã;Manaus;AM
+69021540;Rua Romazeira;7772;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;9126;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;7761;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;3905;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;3634;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;2168;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;9833;Tarumã;Manaus;AM
+69021585;Rua Beladona;1779;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;7367;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;1644;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;572;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;3314;Tarumã;Manaus;AM
+69021150;Rua Esperança;9205;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;6057;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;688;Tarumã;Manaus;AM
+69021525;Rua Surucuá;4746;Tarumã;Manaus;AM
+69021405;Rua Catar;3435;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;5933;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;3578;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;2218;Tarumã;Manaus;AM
+69021310;Rua São Tomé;5890;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;2199;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;1797;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;9048;Tarumã;Manaus;AM
+69021205;Rua São Gregório;9931;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;5716;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;1282;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;14;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;8908;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;7161;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;6970;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;8542;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;4207;Tarumã;Manaus;AM
+69021430;Rua Craveiro;9863;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;4349;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;1186;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;3836;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;3599;Tarumã;Manaus;AM
+69021310;Rua São Tomé;5675;Tarumã;Manaus;AM
+69021405;Rua Catar;334;Tarumã;Manaus;AM
+69021185;Rua Goiânia;8010;Tarumã;Manaus;AM
+69021430;Rua Craveiro;1230;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;6333;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);5626;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;5983;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;661;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;2358;Tarumã;Manaus;AM
+69021525;Rua Surucuá;9137;Tarumã;Manaus;AM
+69021455;Rua Buriti;1315;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);7737;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;9825;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;3574;Tarumã;Manaus;AM
+69021560;Rua das Acácias;3597;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;1481;Tarumã;Manaus;AM
+69021225;Avenida Santa Helena;3431;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;9770;Tarumã;Manaus;AM
+69021600;Rua Rabanete;9718;Tarumã;Manaus;AM
+69021575;Rua Roseira;7049;Tarumã;Manaus;AM
+69021370;Rua Marques Rabelo;9409;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;5;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;1782;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;9986;Tarumã;Manaus;AM
+69021203;Rua Alvorada;6828;Tarumã;Manaus;AM
+69021203;Rua Alvorada;2682;Tarumã;Manaus;AM
+69021360;Rua Patrícia Galvão;9332;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;8556;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;4401;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;3874;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;7717;Tarumã;Manaus;AM
+69021340;Rua Darcy França;6439;Tarumã;Manaus;AM
+69021206;Rua Libertador;8817;Tarumã;Manaus;AM
+69021310;Rua São Tomé;1551;Tarumã;Manaus;AM
+69021150;Rua Esperança;2432;Tarumã;Manaus;AM
+69021500;Rua Abobreira;2604;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;2727;Tarumã;Manaus;AM
+69021570;Rua Dormideira;9872;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;8334;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;900;Tarumã;Manaus;AM
+69021430;Rua Craveiro;7851;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;3391;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;1890;Tarumã;Manaus;AM
+69021540;Rua Romazeira;1460;Tarumã;Manaus;AM
+69021453;Rua Nova;6448;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;8965;Tarumã;Manaus;AM
+69021570;Rua Dormideira;3658;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;9930;Tarumã;Manaus;AM
+69021510;Rua Bisnagueira;2080;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;6226;Tarumã;Manaus;AM
+69021350;Rua São Braz;7691;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);2455;Tarumã;Manaus;AM
+69021440;Rua Palmiteiro;6478;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;4623;Tarumã;Manaus;AM
+69021580;Rua Lírio do Campo;9675;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;2975;Tarumã;Manaus;AM
+69021310;Rua São Tomé;8336;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;533;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;5130;Tarumã;Manaus;AM
+69021410;Rua Iafa;8281;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;9428;Tarumã;Manaus;AM
+69021415;Travessa 5 de Abril;1953;Tarumã;Manaus;AM
+69021530;Rua Jacamim;301;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;5106;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;2912;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;523;Tarumã;Manaus;AM
+69021310;Rua São Tomé;7964;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;9036;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;9818;Tarumã;Manaus;AM
+69021453;Rua Nova;7630;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);8793;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;730;Tarumã;Manaus;AM
+69021150;Rua Esperança;4039;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;3750;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;8750;Tarumã;Manaus;AM
+69021580;Rua Lírio do Campo;978;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);8624;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;4083;Tarumã;Manaus;AM
+69021355;Travessa Bom Jesus;6778;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;7960;Tarumã;Manaus;AM
+69021485;Travessa Carpineira;4789;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;1069;Tarumã;Manaus;AM
+69021515;Rua Morine;2056;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;1883;Tarumã;Manaus;AM
+69021570;Rua Dormideira;4420;Tarumã;Manaus;AM
+69021475;Travessa Alecrinzeiro;5185;Tarumã;Manaus;AM
+69021345;Rua 29 de Julho;1489;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;4705;Tarumã;Manaus;AM
+69021560;Rua das Acácias;3457;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;8089;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;1323;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;4120;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);7726;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;1479;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;9339;Tarumã;Manaus;AM
+69021420;Rua Cidreira;6489;Tarumã;Manaus;AM
+69021290;Rua Sousa Caldas;5176;Tarumã;Manaus;AM
+69021560;Rua das Acácias;325;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;4405;Tarumã;Manaus;AM
+69021565;Rua Magnólia;7322;Tarumã;Manaus;AM
+69021305;Travessa Madre Tereza;4170;Tarumã;Manaus;AM
+69021565;Rua Magnólia;3205;Tarumã;Manaus;AM
+69021185;Rua Goiânia;3406;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;4137;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;262;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;8655;Tarumã;Manaus;AM
+69021515;Rua Morine;482;Tarumã;Manaus;AM
+69021430;Rua Craveiro;2552;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;3380;Tarumã;Manaus;AM
+69021150;Rua Esperança;9400;Tarumã;Manaus;AM
+69021205;Rua São Gregório;6672;Tarumã;Manaus;AM
+69021310;Rua São Tomé;1559;Tarumã;Manaus;AM
+69021193;Beco Maria Muller;3036;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;6710;Tarumã;Manaus;AM
+69021335;Rua das Castanheiras;9286;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;3883;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;8762;Tarumã;Manaus;AM
+69021420;Rua Cidreira;3579;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;7545;Tarumã;Manaus;AM
+69021580;Rua Lírio do Campo;504;Tarumã;Manaus;AM
+69021215;Rua Tenório Telles;2698;Tarumã;Manaus;AM
+69021575;Rua Roseira;7735;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;5378;Tarumã;Manaus;AM
+69021210;Rua Francisco Otaviano;3234;Tarumã;Manaus;AM
+69021425;Avenida Fernando Sabino (Lot C Sales);8113;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;296;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;791;Tarumã;Manaus;AM
+69021205;Rua São Gregório;657;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;5240;Tarumã;Manaus;AM
+69021545;Rua Alecrinzeiro;5726;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;3239;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);4975;Tarumã;Manaus;AM
+69021150;Rua Esperança;4061;Tarumã;Manaus;AM
+69021240;Rua Bernardo Guimarães;6955;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;3255;Tarumã;Manaus;AM
+69021585;Rua Beladona;8851;Tarumã;Manaus;AM
+69021181;Beco Governador Fragoso Monteiro;6727;Tarumã;Manaus;AM
+69021390;Rua Bergamoteira;7467;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;906;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;1467;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;7102;Tarumã;Manaus;AM
+69021200;Rua Geir Campos;2272;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;501;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;6016;Tarumã;Manaus;AM
+69021525;Rua Surucuá;2509;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;1272;Tarumã;Manaus;AM
+69021341;Travessa São Bartolomeu;3917;Tarumã;Manaus;AM
+69021300;Travessa Gustavo Capanema;4320;Tarumã;Manaus;AM
+69021315;Travessa Junqueira Freire;9591;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;1839;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;818;Tarumã;Manaus;AM
+69021575;Rua Roseira;7031;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;3528;Tarumã;Manaus;AM
+69021160;Rua Governador Turiano Meira;5290;Tarumã;Manaus;AM
+69021270;Rua São Ana Cristina Cesar;3670;Tarumã;Manaus;AM
+69021480;Rua Cajazeiro;5817;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;4493;Tarumã;Manaus;AM
+69021180;Rua Governador Fragoso Monteiro;6001;Tarumã;Manaus;AM
+69021585;Rua Beladona;3563;Tarumã;Manaus;AM
+69021251;Travessa Bons Amigos;8305;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;5018;Tarumã;Manaus;AM
+69021450;Rua Pessegueiro;8056;Tarumã;Manaus;AM
+69021220;Rua Santa Rita;9747;Tarumã;Manaus;AM
+69021275;Rua Menotti;1984;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;6218;Tarumã;Manaus;AM
+69021330;Rua Aureliano Lessa;6350;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;6531;Tarumã;Manaus;AM
+69021295;Rua Lúcio Cardoso (Com S Pedro);6471;Tarumã;Manaus;AM
+69021265;Rua Guilhermino Cesar;6947;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;6294;Tarumã;Manaus;AM
+69021321;Rua Nossa Senhora Aparecida;3606;Tarumã;Manaus;AM
+69021285;Rua Santa Ana;6874;Tarumã;Manaus;AM
+69021185;Rua Goiânia;4638;Tarumã;Manaus;AM
+69021260;Rua São Alminio Nogueira;2256;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;3216;Tarumã;Manaus;AM
+69021465;Rua Ginjeira;9845;Tarumã;Manaus;AM
+69021445;Rua Jesus da Libertação;2934;Tarumã;Manaus;AM
+69021195;Rua Santo Agostinho;5100;Tarumã;Manaus;AM
+69021245;Rua Monte Horebe;1024;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;6483;Tarumã;Manaus;AM
+69021190;Avenida Fernando Sabino;7411;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;6405;Tarumã;Manaus;AM
+69021206;Rua Libertador;7704;Tarumã;Manaus;AM
+69021550;Rua C (Lot C Sales);3647;Tarumã;Manaus;AM
+69021326;Rua Madre Maria Clara;7409;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;1345;Tarumã;Manaus;AM
+69021453;Rua Nova;2961;Tarumã;Manaus;AM
+69021420;Rua Cidreira;3444;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;9982;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;418;Tarumã;Manaus;AM
+69021505;Travessa Surucuá;7654;Tarumã;Manaus;AM
+69021435;Rua Jabuticabeira;499;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;8904;Tarumã;Manaus;AM
+69021470;Travessa Romazeira;4946;Tarumã;Manaus;AM
+69021520;Travessa Aradeira;5457;Tarumã;Manaus;AM
+69021540;Rua Romazeira;206;Tarumã;Manaus;AM
+69021275;Rua Menotti;4459;Tarumã;Manaus;AM
+69021400;Rua Cafeeira;25;Tarumã;Manaus;AM
+69021150;Rua Esperança;3177;Tarumã;Manaus;AM
+69021230;Rua Monte Sinai;6901;Tarumã;Manaus;AM
+69021458;Rua Esponjeira;9094;Tarumã;Manaus;AM
+69021490;Travessa do Paulo;9656;Tarumã;Manaus;AM
+69021495;Rua Otto Maria;9964;Tarumã;Manaus;AM
+69021430;Rua Craveiro;8496;Tarumã;Manaus;AM
+69021410;Rua Iafa;628;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;6172;Tarumã;Manaus;AM
+69021530;Rua Jacamim;2075;Tarumã;Manaus;AM
+69021575;Rua Roseira;5364;Tarumã;Manaus;AM
+69021340;Rua Darcy França;8163;Tarumã;Manaus;AM
+69021455;Rua Buriti;5431;Tarumã;Manaus;AM
+69021600;Rua Rabanete;2762;Tarumã;Manaus;AM
+69021325;Rua Santo Onofre;5240;Tarumã;Manaus;AM
+69021320;Rua Emílio Moura;4137;Tarumã;Manaus;AM
+69021150;Rua Esperança;9118;Tarumã;Manaus;AM
+69021605;Travessa Bambu;4434;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;2420;Tarumã;Manaus;AM
+69021235;Rua Sérgio Porto;7674;Tarumã;Manaus;AM
+69021250;Rua 19 de Janeiro;4204;Tarumã;Manaus;AM
+69021165;Rua Governador Adriano Jorge;615;Tarumã;Manaus;AM
+69021145;Rua Governador Borges Machado;1360;Tarumã;Manaus;AM
+69021605;Travessa Bambu;5288;Tarumã;Manaus;AM
+69021375;Rua José Lins do Rego;4867;Tarumã;Manaus;AM
+69021255;Rua Márcio Casassanta;7602;Tarumã;Manaus;AM
+69021155;Rua Governador José Chevalier;7706;Tarumã;Manaus;AM
+69021170;Rua Nossa Senhora de Fátima;9065;Tarumã;Manaus;AM
+69021280;Rua Araripe Junior;1767;Tarumã;Manaus;AM
+69021420;Rua Cidreira;3552;Tarumã;Manaus;AM
+69021461;Rua Espirradeira;373;Tarumã;Manaus;AM
+69021500;Rua Abobreira;3791;Tarumã;Manaus;AM
+69021610;Rua Alpinea Rosa;6115;Tarumã;Manaus;AM
+69021365;Rua Nossa Senhora de Lourdes;9700;Tarumã;Manaus;AM
+69021500;Rua Abobreira;9003;Tarumã;Manaus;AM
